@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imogenweigall
-- 🌱 PhD candidate the University of South Australia
+- 👩🏼‍🎓 PhD candidate the University of South Australia
 - 👀 I’m interested in investigating neurophysiological predictors of shared mental model development in virtual dyads
-- 💞️ I’m looking to collaborate on topics related to organisational neuroscience and team cognition
+- 👥 I’m looking to collaborate on topics related to organisational neuroscience and team cognition
 - 📫 How to reach me: imogen.weigall@mymail.unisa.edu.au
 
 <!---
